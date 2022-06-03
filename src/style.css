@@ -1,1 +1,13 @@
-/* styles go here */
+
+.inblock-element {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.inblock-element:last-child {
+  margin-bottom: 0;
+}
+
+.blocks {
+  margin-bottom: 20px;
+}
